@@ -1,9 +1,9 @@
 ## Install packages
-1. Install `pyenv` from ![here](https://github.com/pyenv/pyenv?tab=readme-ov-file#a-getting-pyenv)
+1. Install `pyenv` from [here](https://github.com/pyenv/pyenv?tab=readme-ov-file#a-getting-pyenv)
 ```
 pyenv install 3.12.8
 ```
-2. Install `pyenv virtualenv` from ![here](https://github.com/pyenv/pyenv-virtualenv)
+2. Install `pyenv virtualenv` from [here](https://github.com/pyenv/pyenv-virtualenv)
 
 ```
 pyenv virtualenv 3.12.8 cobotta
